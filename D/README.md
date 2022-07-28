@@ -1,3 +1,4 @@
 ## D
 
-* dependency - зависимость
+* Dependency - зависимость
+* Deprecating - устаревший
